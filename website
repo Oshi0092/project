@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="goated website"
+        <title> Justin's Website</title>
+    </head>
+    <body>
+    <h2>Justin's Website</h2>
+    <hr/> 
+    <p><big>This Is <b>my</b> paragraph </big></p>
+    <p><i></small> is my seccond paragraph</small><i></p>
+    <p>H<sub>2</sub>0</p>
+    <p>10<sup>2</sup></p>
+    </body>
+    <!-- ur a bozo-->
+    
+ 
+     <a href="https://9anime.to/watch/the-eminence-in-shadow.4ylx/ep-9">
+    <img width="100"  src="Number.png" alt="Picture of Google Pictures" />
+    </a>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FYwCLzhOEfE?start=2585" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+   
+   
+        <ol type="A">
+        <li><a href="#"> Apples </a> </li>
+        <li>oranges
+        </ol>
+    
+        <table>
+              <thead>
+              <caption>List Of Numbers</caption>
+            <tr>
+                <th>num1</th>
+                <th>num2</th>
+                <th>num3 </th>
+                <th>num4 </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td colspan="2"> Four </td>
+                <td>Five </td>
+                <td>Six </td>
+                
+            </tr>
+            </tbody>
+        </table>
+        <input type="text" value="Username" >
+        <br>
+        <input type="password" value="Password">    
+        
+        <br>
+        
+        <textarea>
+
+        </textarea>
+    
+ </html>
